@@ -1,3 +1,3 @@
-#demo
+# Velox Stack
 
-hello this is velox stack
+- the best stack to learn web dev very fast 
